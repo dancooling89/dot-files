@@ -14,3 +14,5 @@ compinit
 
 # Aliases
 alias firefox="firefox-developer-edition"
+
+eval "$(starship init zsh)"
